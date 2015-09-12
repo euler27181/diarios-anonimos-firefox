@@ -1,0 +1,14 @@
+{
+  "title": "Diarios anónimos: Clarín y La Nación",
+  "name": "diarios-anonimos",
+  "version": "0.0.1",
+  "description": "Evita tener que registrarte para leer los diarios Clarín y La Nación.",
+  "main": "index.js",
+  "author": "MissFilly",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/MissFilly/diarios-anonimos-firefox"
+}

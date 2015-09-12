@@ -1,3 +1,5 @@
+Esta es una adaptación para Firefox de la extensión creada por [wacko](https://github.com/wacko/diarios-anonimos).
+
 Diarios anónimos
 ================
 

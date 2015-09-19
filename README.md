@@ -1,4 +1,6 @@
-Esta es una adaptación para Firefox de la extensión creada por [wacko](https://github.com/wacko/diarios-anonimos).
+Esta es una adaptación para Firefox>=38 de la extensión creada por [wacko](https://github.com/wacko/diarios-anonimos).
+
+El add-on puede descargarse desde [acá](https://addons.mozilla.org/addon/diarios-anonimos/).
 
 Diarios anónimos
 ================

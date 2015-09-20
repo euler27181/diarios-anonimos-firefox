@@ -3,10 +3,10 @@ var self = require("sdk/self");
 
 pageMod.PageMod({
   include: /.+:\/\/.+\.lanacion\.com\.ar\/.*/,
-  contentScriptFile: self.data.url("lanacion.js")
+  contentStyleFile: self.data.url("lanacion.css")
 });
 
 pageMod.PageMod({
   include: /.+:\/\/.+\.clarin\.com\/.*/,
-  contentScriptFile: self.data.url("clarin.js")
+  contentStyleFile: self.data.url("clarin.css")
 });

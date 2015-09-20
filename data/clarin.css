@@ -1,0 +1,7 @@
+:root {
+    overflow-y: visible !important;
+}
+
+.modalLoginPase {
+    display: none !important;
+}

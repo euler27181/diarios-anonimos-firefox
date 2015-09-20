@@ -1,7 +1,7 @@
 {
   "title": "Diarios anónimos: Clarín y La Nación",
   "name": "diarios-anonimos",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Evita tener que registrarte para leer los diarios Clarín y La Nación.",
   "main": "index.js",
   "author": "MissFilly",

@@ -1,3 +1,7 @@
-.lnmodal {
+.modal-open {
+    overflow: visible !important;
+}
+
+.lnmodal, .modal-scrollable {
     display: none !important;
 }

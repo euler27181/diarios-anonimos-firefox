@@ -7,6 +7,6 @@ pageMod.PageMod({
 });
 
 pageMod.PageMod({
-  include: /.+:\/\/.+\.clarin\.com\/.*/,
+  include: [/.+:\/\/.+\.clarin\.com\/.*/, /.+:\/\/.+\.ole\.com\.ar\/.*/],
   contentStyleFile: self.data.url("clarin.css")
 });
